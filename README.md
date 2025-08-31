@@ -2,7 +2,7 @@
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
-Python IDE with Numpy and Scipy.
+Python IDE with Numpy and Scipy
 # Program
 ### Ideal sampling
 ```python
